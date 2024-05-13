@@ -10,5 +10,3 @@ Você pode conferir alguns dos meus projetos e contribuições aqui no GitHub. S
 
 ## Contato 📧
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se você quiser entrar em contato comigo, fique à vontade para enviar um e-mail para: jn038576@gmail.com
-
-Vamos conectar e explorar juntos novas possibilidades!
