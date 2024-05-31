@@ -1,6 +1,8 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-![Gengar](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Gengar">
+</div>
 
 
 ## Olá! Eu sou José
