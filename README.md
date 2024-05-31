@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Gengar">
+  <img src="[https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://media.giphy.com/media/UHAYP0FxJOmFBuOiC2/giphy.gif?cid=790b7611imwg95nyl48o9bj7p0bkxrgl90voqnbfbjido93c&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="Gengar">
 </div>
 
 
