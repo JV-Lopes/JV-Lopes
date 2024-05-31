@@ -1,6 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-![Gengar]([https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F618119117631541521%2F&psig=AOvVaw1YoKzS8lZ5OrLrA1Azlplq&ust=1717258177303000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICa566juIYDFQAAAAAdAAAAABAJ))
+![Gengar](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+
 
 ## Olá! Eu sou José
 Um entusiasta da programação buscando aprender e crescer constantemente no mundo da tecnologia. Atualmente, estou focado no desenvolvimento em **Java**, **HTML/CSS**, **C#** e **JavaScript**, e estou sempre em busca de novos desafios e oportunidades de colaboração.
