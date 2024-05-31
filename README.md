@@ -1,8 +1,7 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
 <div align="center">
-  <img src="![image](https://github.com/JV-Lopes/JV-Lopes/assets/160689405/e899854e-9bbd-4c4c-96dc-c5bd2c1dbf9d)
-" alt="Gengar">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVvMGJyZHg0dzNqNjh1cnV3N2ZsOXAzeHdvbGV3bzh1YWxrNXBhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UHAYP0FxJOmFBuOiC2/giphy.gif" alt="Gengar">
 </div>
 
 
