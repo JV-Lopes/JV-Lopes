@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub! 👋
 
-![Pokémon](https://media.giphy.com/media/DRfu7BT8ZK1uo/giphy.gif)
+![Gengar](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ## Olá! Eu sou José
 Um entusiasta da programação buscando aprender e crescer constantemente no mundo da tecnologia. Atualmente, estou focado no desenvolvimento em **Java**, **HTML/CSS**, **C#** e **JavaScript**, e estou sempre em busca de novos desafios e oportunidades de colaboração.
