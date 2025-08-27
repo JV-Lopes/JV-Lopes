@@ -13,6 +13,7 @@ Sou um profissional dedicado e comunicativo, apaixonado por resolver problemas e
 
 ## 🚀 Projetos e Trabalho
 Você pode conferir alguns dos meus projetos e contribuições aqui no GitHub. Sinta-se à vontade para explorar e fornecer feedback!
+Portfólio: https://jv-lopes.github.io/Portfolio
 
 [![GitHub - JV-Lopes](https://img.shields.io/badge/GitHub-JV--Lopes-green?style=for-the-badge&logo=github)](https://github.com/JV-Lopes)
 
